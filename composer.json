@@ -17,6 +17,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/aditya21/PHPoAuthLib.git"
+        }
+    ],
     "require": {
         "php": ">=5.4",
         "lusitanian/oauth": "~0.3"
